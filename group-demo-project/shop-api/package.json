@@ -1,0 +1,21 @@
+{
+  "name": "shop-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start-server": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "express-fileupload": "^1.4.0",
+    "json-server": "^0.17.0",
+    "jsonwebtoken": "^8.5.1",
+    "nodemon": "^2.0.20"
+  }
+}

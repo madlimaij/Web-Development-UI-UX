@@ -1,0 +1,26 @@
+#### Task 1 ###
+
+In some fetch methods we had to set Content-Type header.
+Move this header name and its value to constant(s);
+Note: Duplicating the same thing is never a good practice.
+
+
+### Task 2 ###
+
+Implement SecondPage. Think what it could show and how it could be displayed.
+
+### Task 3 ###
+
+Add extra fields to ToDo model (e.g. created and updated timestamps) 
+and display them somewhere.
+
+Created - when todo was created
+Updated - when todo's status last changed
+
+Can always think of your own fields.
+When using dates, display them in a "nice" format.
+
+### Task 4 ###
+
+Don't allow to save same todo message when existing one is not completed.
+Display an error message.

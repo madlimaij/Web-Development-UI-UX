@@ -1,0 +1,27 @@
+.width-height {
+    height: 100px;
+    width: 500px;
+    background-color: powderblue;
+}
+
+.max-width {
+    max-width: 500px;
+    height: 100px;
+    background-color: powderblue;
+}
+
+.min-max-width {
+    max-width: 400px;
+    min-width: 100px;
+    background-color: powderblue;
+}
+  
+img.image-one {
+    height: auto;
+    width: auto;
+}
+
+img.image-two {
+    height: 50%;
+    width: 50%;
+}

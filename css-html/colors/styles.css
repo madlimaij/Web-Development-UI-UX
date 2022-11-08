@@ -1,0 +1,20 @@
+.background-color {
+    background-color: #7171de;
+    color: white;
+}
+
+.text-color {
+    color: mediumseagreen;
+}
+
+.border-color {
+    border: 2px solid #ca4747;
+}
+
+.rgb-background {
+    background-color: rgb(255, 99, 71);
+}
+
+.rgba-background {
+    background-color: rgba(255, 99, 71, 0.5);
+}

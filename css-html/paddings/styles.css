@@ -1,0 +1,42 @@
+.padding {
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+    background-color: lightblue;
+}
+
+.padding-short-four-values {
+    padding: 25px 50px 75px 100px;
+    background-color: lightblue;
+}
+
+.padding-short-three-values {
+    padding: 25px 50px 75px;
+    background-color: lightblue;
+}
+
+.padding-short-two-values {
+    padding: 25px 50px;
+    background-color: lightblue;
+}
+
+.padding-top {
+    padding-top: 25px;
+    background-color: lightblue;
+}
+
+.padding-right {
+    padding-right: 25px;
+    background-color: lightblue;
+}
+
+.padding-bottom {
+    padding-bottom: 25px;
+    background-color: lightblue;
+}
+
+.padding-left {
+    padding-left: 25px;
+    background-color: lightblue;
+}

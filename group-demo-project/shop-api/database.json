@@ -1,0 +1,37 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Product 1",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor, nisi! Itaque rerum veritatis adipisci voluptas dignissimos fugit accusamus beatae optio?",
+      "price": 22,
+      "size": 36,
+      "imageUrl": "http://localhost:8000/images/shoe-01.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Product 2",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor, nisi! Itaque rerum veritatis adipisci voluptas dignissimos fugit accusamus beatae optio?",
+      "price": 24,
+      "size": 38,
+      "imageUrl": "http://localhost:8000/images/shoe-02.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Product 3",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor, nisi! Itaque rerum veritatis adipisci voluptas dignissimos fugit accusamus beatae optio?",
+      "price": 30,
+      "size": 40,
+      "imageUrl": "http://localhost:8000/images/shoe-03.jpg"
+    },
+    {
+      "name": "Product 4",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor, nisi! Itaque rerum veritatis adipisci voluptas dignissimos fugit accusamus beatae optio?",
+      "price": 45,
+      "size": 43,
+      "imageUrl": "http://localhost:8000/images/shoe-04.jpg",
+      "id": 4
+    }
+  ],
+  "cart-items": []
+}
