@@ -4,7 +4,6 @@ function changeValueOfVariable(number) {
         x = number;
     }
     return x;
-    // @todo logic here
 }
 
 export default changeValueOfVariable;

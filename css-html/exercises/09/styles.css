@@ -1,0 +1,23 @@
+.container {
+    display: flex;
+}
+
+.box {
+    background-color: #006666;
+    width: 600px;
+    height: 400px;
+    padding: 30px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    font-size: 18px;
+}
+
+.box:first-child,
+.box:last-child {
+    height: 300px;
+    text-align: center;
+}
+
+.box:nth-child(2) {
+    background-color: rgba(255, 99, 71, 0.5);
+}

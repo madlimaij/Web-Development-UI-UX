@@ -7,8 +7,25 @@ const movies = {
 
 function favoriteMovies(movie) {
     let result;
+    
+    switch (movie) {
+    case movies.Samaritan:
+        result = `Your favorite movie is ${movies.Samaritan}`;
+        break;
+    case movies.TopGunMaveric:
+        result = `Your favorite movie is ${movies.TopGunMaveric}`;
+        break;
+    case movies.Sandman:
+        result = `Your favorite movie is ${movies.Sandman}`;
+        break;
+    case movies.BreakingBad:
+        result = `Your favorite movie is ${movies.BreakingBad}`;
+        break;
+    default:
+        break;
+    }
 
-    // @todo logic here
+    return result;
 }
 
 export { movies, favoriteMovies };

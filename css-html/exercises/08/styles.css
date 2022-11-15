@@ -1,0 +1,8 @@
+.box {
+    background-color: lightblue;
+    width: 500px;
+    height: 500px;
+    padding: 30px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+}

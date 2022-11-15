@@ -1,5 +1,9 @@
 function helloWorld(greetings) {
-    // @todo logic here
+    if (greetings) {
+        return "Hello world!";
+    } else {
+        return "";
+    }
 }
 
 export default helloWorld;

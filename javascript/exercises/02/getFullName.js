@@ -1,5 +1,5 @@
 function getFullName(firstName, lastName) {
-    // @todo logic here
+    return `Your name is ${firstName} ${lastName}`;
 }
 
 export default getFullName;

@@ -1,5 +1,5 @@
 function uniqueArray(array) {
-    // @todo logic here
+    return array.filter((element, id) => array.indexOf(element) === id);
 }
 
 export default uniqueArray;
